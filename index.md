@@ -6,14 +6,15 @@ We decided to choose the Vikings show as our dataset for many reasons. First of 
 
 The ambition of this notebook and site, is to give a basic but clear analysis on the viking's tv show's elements to someone who is not an expert in network analysis or python.
 
-## Basic stats. Let's understand the dataset better
+## A smal description of the dataset
+
+We used the Fandom Wiki page for downloading the relevant data. All the files that were used during the analysis can be found here (link google drive)
+
+## Network and Text Analysis
 
 
 
 
-
-
-##
 
 You can use the [editor on GitHub](https://github.com/G3orgiaa/Social-Graphs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
