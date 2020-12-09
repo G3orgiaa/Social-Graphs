@@ -4,6 +4,17 @@ For this's year project we have chosen to analyze the Viking Series dataset. As 
 
 We decided to choose the Vikings show as our dataset for many reasons. First of all it's an award winning amazing show! Second of all, we are living in Denmark, the  country of origin of vikings. Third, the dataset itself provide plenty analysis opportunities, between all the show's elements. Last but not least, the game Assasins Creed: Valhalla just recently was launched so, if you are a gamer the vikings topic is more relevant than ever ;).
 
+The ambition of this notebook and site, is to give a basic but clear analysis on the viking's tv show's elements to someone who is not an expert in network analysis or python.
+
+## Basic stats. Let's understand the dataset better
+
+
+
+
+
+
+##
+
 You can use the [editor on GitHub](https://github.com/G3orgiaa/Social-Graphs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
