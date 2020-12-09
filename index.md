@@ -8,10 +8,10 @@ The ambition of this notebook and site, is to give a basic but clear analysis on
 
 ## A smal description of the dataset
 
-We used the Fandom Wiki page for downloading the relevant data. All the files that were used during the analysis can be found here (link google drive)
+We used the Fandom Wiki page for downloading the relevant data. All the files that were used during the analysis can be found here (https://drive.google.com/drive/folders/1j7NCzDaNx_NBu0T2vC4U2qIWAUTkWVV8?usp=sharing). For the views dataset, data from the internet were used. For more information on the data, please refer to the python notebook.
 
 ## Network and Text Analysis
-
+First of all we conducted some preliminary analysis of the data. Using API and python, the show's element (characters, episodes and seasons) were extracted, and stored in separate files. Before that, elements that were leading to blank wiki pages had to be elimate from the dataset while non ascii characters had to be transformed into a proper unicode format.
 
 
 
