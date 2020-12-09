@@ -1,5 +1,9 @@
 ## Introduction
-For this's year project we have chosen to analyze the Viking Series dataset. As a little bit of history first, 
+
+For this's year project we have chosen to analyze the Viking Series dataset. As a little bit of history first, Vikings is a historical television drama series, that was first aired in Canada in 2013. Inspired by true events and characters, the shows tells the story of Ragnar Lothbrok, one of the best-known legendary Norse heroes and notorious as the scourge of England and France (source Wikipedia).
+
+We decided to choose the Vikings show as our dataset for many reasons. First of all it's an award winning amazing show! Second of all, we are living in Denmark, the  country of origin of vikings. Third, the dataset itself provide plenty analysis opportunities, between all the show's elements. Last but not least, the game Assasins Creed: Valhalla just recently was launched so, if you are a gamer the vikings topic is more relevant than ever ;).
+
 You can use the [editor on GitHub](https://github.com/G3orgiaa/Social-Graphs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
