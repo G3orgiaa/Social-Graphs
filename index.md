@@ -15,7 +15,7 @@ First of all we conducted some preliminary analysis of the data. Using API and p
 
 Apart from the files for every element, two separate files were created; one for storing the characters that died during each season and a second one for keeping the main and recurring cast of each season.
 
-
+With the network package called netoworkx, an undirected graph was created, storing all show's elements. The graph consists of 10700 edges and 603 nodes. 
 
 
 
